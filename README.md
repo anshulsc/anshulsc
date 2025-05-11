@@ -5,6 +5,9 @@ I am passionate about multimodal systems, language  models and open-source initi
 
 + 📄: Doing some Multimodal model research on multi-hop reasoning in tabular data.
 + 💡: I really enjoy reading axriv papers and do some little experimenrs, I am always open for collaborating in research!
+<a>
+  <img align="right" src="https://github.com/anshulsc/anshulsc/blob/main/Pic/1.jpeg"  width="80" height="80" border="80"/>
+</a>
 
 + 🌿: My MBTI is INTJ, I enjoy traveling, books , and mimalistic stuffs, Welcome to become friends with me!
 
