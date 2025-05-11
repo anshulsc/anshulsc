@@ -9,7 +9,7 @@ I am passionate about multimodal systems, language  models and open-source initi
   <img align="right" src="https://github.com/anshulsc/anshulsc/blob/main/PIC/logo.png"  width="80" height="80" border="80"/>
 </a>
 <a>
-  <img align="right" src="https://github.com/anshulsc/anshulsc/blob/main/PIC/1.png" width="180" height="240"/>
+  <img align="right" src="https://github.com/anshulsc/anshulsc/blob/main/PIC/1.png" width="180" height="180"/>
 </a>
 
 + 🌿: My MBTI is INTJ, I enjoy traveling, books , and mimalistic stuffs, Welcome to become friends with me!
