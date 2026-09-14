@@ -6,8 +6,7 @@ I am passionate about multimodal systems, language models and open-source initia
 + 🛡️: **AI safety & robustness** of Vision-Language Models and World Models
 + ⚔️: Adversarial attacks and defenses for **multimodal LLMs** and **diffusion models**
 + 🔍: **Interpretability** of LLMs and multimodal reasoning
-+ 📊: Previously worked on multi-hop reasoning over tabular data with multimodal models — [MTabVQA](https://arxiv.org/) (EMNLP 2025 Findings).
-+ 💡: I really enjoy reading arXiv papers and running little experiments. I am always open to collaborating on research!
++ 💡: always open to collaborating on research!
 <a>
   <img align="right" src="https://github.com/anshulsc/anshulsc/blob/main/PIC/logo.png"  width="80" height="80" border="80"/>
 </a>
