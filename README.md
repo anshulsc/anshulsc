@@ -1,4 +1,4 @@
-## Hey 👋, I am Ansh (Asca)
+## Hey 👋, I am Anshul (Asca)
 
 I am an MSc Computer Science student at the [University of Bonn](https://www.uni-bonn.de/en) and a Research Assistant at the Language Technology Group / [HCDS](https://www.hcds.uni-hamburg.de/en.html), [University of Hamburg](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html), working with Prof. Chris Biemann. Previously a [MITACS Globalink Research Intern](https://www.mitacs.ca/our-programs/globalink-research-internship-students/) and ML/AI Lead at [Google Student Developers Club](https://developers.google.com/community).
 
